@@ -1,2 +1,2 @@
-# IEEE-IIITS-WebSite
+# IEEE-IIITS-Website
 Website made for IEEE IIITS Student Branch
